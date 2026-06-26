@@ -1,0 +1,27 @@
+{
+  "pedidoId": 25001,
+  "clienteId": 455,
+  "nomeCliente": "Maria Oliveira",
+  "dataPedido": "2026-06-25T23:10:00",
+  "itens": [
+    {
+      "produtoId": 302,
+      "nomeProduto": "Coleira Refletiva",
+      "quantidade": 1
+    },
+    {
+      "produtoId": 405,
+      "nomeProduto": "Shampoo Antipulgas",
+      "quantidade": 2
+    }
+  ],
+  "enderecoEntrega": {
+    "logradouro": "Avenida Paulista",
+    "numero": "1500",
+    "complemento": "Apto 101",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01310-100"
+  }
+}

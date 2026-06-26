@@ -1,0 +1,28 @@
+{
+  "pedidoId": 12345,
+  "clienteId": 998,
+  "nomeCliente": "João Silva",
+  "dataPedido": "2026-06-25T20:00:00",
+  "itens": [
+    {
+      "produtoId": 101,
+      "nomeProduto": "Ração Super Premium 15kg",
+      "quantidade": 1
+    },
+    {
+      "produtoId": 205,
+      "nomeProduto": "Brinquedo de Corda",
+      "quantidade": 2
+    }
+  ],
+  "enderecoEntrega": {
+    "logradouro": "Rua dos Cachorros",
+    "numero": "123",
+    "complemento": "Apto 45",
+    "bairro": "Petrópolis",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000-000"
+  },
+  "observacoes": "Deixar na portaria"
+}
